@@ -1,0 +1,14 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+staticfiles
+media
+react/node_modules
+react/dist
+npm-debug.log*
+.DS_Store
